@@ -27,7 +27,7 @@
       <groupId>com.clinet.xxproject.coreframework</groupId>
 		<artifactId>coreframework</artifactId>
 		<version>1.0-SNAPSHOT</version>
-		<scope>compile</scope>
+      
     </dependency>
   </dependencies>
 
